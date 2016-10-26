@@ -12,3 +12,6 @@ Theoretical and practical material prepared by myself on:
 - Time series (linear methods)
 
 - Time series (non-linear methods)
+
+
+Any comments are very welcome at: a.cotton.soul@gmail.com
