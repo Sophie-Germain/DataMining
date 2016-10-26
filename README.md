@@ -1,2 +1,3 @@
-# Diplomado-Mineria-de-Datos
-Material para el diplomado de Minería de Datos 
+# Data mining class
+## Professor of this class: Fall 2016 
+Material prepared by myself
