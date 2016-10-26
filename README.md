@@ -1,3 +1,14 @@
 # Data mining class
 ## Professor of this class: Fall 2016 
-Material prepared by myself
+
+Theoretical and practical material prepared by myself on:
+
+- Regression (multiple linear regression).
+
+- Classification (logistic regression, discriminant analysis, support vector machines and neural networks).
+
+- Clustering (hierarchical and partioning)
+
+- Time series (linear methods)
+
+- Time series (non-linear methods)
