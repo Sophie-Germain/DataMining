@@ -13,5 +13,6 @@ Theoretical and practical material prepared myself on:
 
 - Time series (non-linear methods)
 
+XXXXX
 
 Any comments are very welcome at: a.cotton.soul@gmail.com
