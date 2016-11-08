@@ -1,7 +1,7 @@
 # Data mining class
 ## Professor of this class: Fall 2016 
 
-Theoretical and practical material prepared by myself on:
+Theoretical and practical material prepared myself on:
 
 - Regression (multiple linear regression).
 
